@@ -26,7 +26,7 @@ print("Olá, mundo!")
 ```
 
 ### 🐍 Projeto 2: Qual é seu nome?
-Objetivo: Fazer um programa que leia e exiba o nome do usuário.
+Objetivo: Fazer um programa que lê o nome do usuário e envia uma saldação.
 
 
 📄 **Arquivo:**: [Qual é seu nome.py](https://github.com/user-attachments/files/21978408/002.-.Qual.seu.nome.py)
@@ -40,7 +40,7 @@ print('É um prazer te conhecer,',pessoa,'!')
 ---
 
 ### 🐍 Projeto 3: Primeira conta de adição.
-Objetivo: Fazer minha primeira calculadora.
+Objetivo: Fazer o primeiro programa de soma em Python.
 
 📄 **Arquivo:** [Primeiro conta de adição.py](https://github.com/user-attachments/files/21978449/Aula06.py)
 
@@ -91,7 +91,7 @@ else:
 ---
 
 ### 🐍 Projeto 5: Calculadora simples com interação (Botões, simbolos e que abra uma aplicação)
-Objetivo: Fazer uma calculadora simples, porém com interação.
+Objetivo: Fazer uma calculadora simples, porém em uma janela e mais interativa.
 
 📄 **Arquivo:** [Calculadora com layout.py](https://github.com/user-attachments/files/21978491/Calculadora.Simples.-.Chat.py)
 
